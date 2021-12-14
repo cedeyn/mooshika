@@ -44,7 +44,6 @@
 #include <sys/shm.h>
 #include <sys/sem.h>
 
-#include <infiniband/arch.h>
 #include <rdma/rdma_cma.h>
 
 #include "log.h"
